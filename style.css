@@ -1,0 +1,12 @@
+.demo{
+    background-color: red;
+    color: white;
+    border: 1px black solid;
+    box-shadow: 10px 10px 10px yellow;
+    padding: 5px;
+}
+.vip{
+    background-color: blue;
+    border: 5px solid;
+    
+}
